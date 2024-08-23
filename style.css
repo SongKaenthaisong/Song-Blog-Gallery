@@ -12,10 +12,6 @@ ul{
     list-style: none;
 }
 
-.active{
-    color: #ff3300;
-    text-decoration:underline ;
-    font-weight: bold;
 }
 body, html{
     overflow-x: hidden;
