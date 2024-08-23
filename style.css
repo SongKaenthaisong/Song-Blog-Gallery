@@ -103,12 +103,6 @@ header{
 section{
     width: 80%;
     margin: 80px auto;
-    background-image: url('./images/img8.jpg');
-    background-position: bottom;
-    background-size: cover;
-    display: flex;
-    align-items:flex-end;
-    justify-content: center;
 }
 .title{
     text-align: center;
