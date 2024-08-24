@@ -222,12 +222,12 @@ img {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     gap: 1rem;
-    margin-top: 5rem;
+    margin-top: 6rem;
 }
 .wrapper img{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-    margin-top: 1rem;
+    margin-top: 7rem;
 }
 .box{
     border: 1px solid #ccc;
