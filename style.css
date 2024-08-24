@@ -298,7 +298,7 @@ img{
     transition: transform .3s ease ;
 }
 img:hover {
-    transform: scale(2.0);
+    transform: scale(1.2);
 }
 .ctn:hover{
     background-color:whitesmoke;
